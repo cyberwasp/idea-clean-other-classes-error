@@ -1,0 +1,1 @@
+# idea-clean-other-classes-error
